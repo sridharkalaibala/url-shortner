@@ -14,7 +14,7 @@ URL shortening service
 
 <br>
 
-## Docker Setup
+## Docker Setup [EASY]
 ```bash
 $ docker-compose build && docker-compose up
 ```
