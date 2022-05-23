@@ -47,11 +47,11 @@ $ yarn start
 
 Create Mongo DB with name of **url-shortener**
 <br>
-Edit   ```.env``` file
+Edit   ```.env``` file and change MONGODB_URL to
 ```
 MONGODB_URL=mongodb://localhost:27017/url-shortener
 ```
-if docker its
+if running on docker MONGODB_URL need to be changed as follows
 
 ```
 MONGODB_URL=mongodb://database:27017/url-shortener
