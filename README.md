@@ -20,7 +20,7 @@ $ docker-compose build && docker-compose up
 ```
 
 
-#[OR]
+# [OR]
 
 ## Local Setup ( Development  / Local MongoDB Required )
 #### Server:
